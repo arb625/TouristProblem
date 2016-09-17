@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mock",
+				"mockMapPointsFC"
+			],
+			[
+				"add",
+				"addEventAttending"
+			],
+			[
+				"eve",
+				"eventsAttending"
+			],
+			[
+				"even",
+				"eventsAttending"
+			],
+			[
+				"events",
+				"eventsDisplayed"
+			],
+			[
+				"update",
+				"updateEventsDisplayed"
+			],
+			[
+				"updateE",
+				"updateEventsSearched"
+			],
+			[
+				"lea",
+				"leaveTime"
+			],
+			[
+				"leave",
+				"leaveDate"
+			],
+			[
+				"sear",
+				"searchCriteria"
+			],
+			[
+				"defaul",
+				"defaultStartDate"
+			],
+			[
+				"upd",
+				"updateLeaveTime"
+			],
+			[
+				"upda",
+				"updateLeaveDate"
+			],
+			[
+				"UPDATE_EVEN",
+				"UPDATE_EVENTS_ATTENDING"
+			],
+			[
+				"UPDA",
+				"UPDATE_EVENTS_SEARCHED"
+			],
+			[
+				"UPDATE_EVE",
+				"UPDATE_EVENTS_DISPLAYED"
+			],
+			[
+				"leav",
+				"leaveTime"
+			],
+			[
+				"Prop",
+				"propTypes"
+			],
+			[
+				"Pr",
+				"propTypes"
+			],
+			[
+				"defau",
+				"defaultAddress"
+			],
+			[
+				"def",
+				"defaultStartTime"
+			],
+			[
+				"Pic",
+				"PickedEventsList"
+			],
+			[
+				"descript",
+				"descriptionLines"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"defa",
+				"defaultAddress"
+			],
+			[
+				"Card",
+				"CardText"
+			],
+			[
+				"handle",
+				"handleAddressChange"
+			],
+			[
+				"handl",
+				"handleTimeChange"
+			],
+			[
+				"M",
+				"MuiThemeProvider"
+			],
+			[
+				"par",
+				"partitions"
+			],
+			[
+				"total",
+				"total_penalty"
+			],
+			[
+				"ins",
+				"instance_penalty"
+			],
+			[
+				"num",
+				"num_nodes"
+			],
+			[
+				"indep",
+				"independent_set"
+			],
+			[
+				"simpl",
+				"simple_cycles"
+			],
+			[
+				"ad",
+				"adjacency_list"
+			],
+			[
+				"lis",
+				"list_cycles"
+			],
+			[
+				"list",
+				"list_list_cycles"
+			],
+			[
+				"new_c",
+				"new_cat_angle"
+			],
+			[
+				"old_",
+				"old_cat_radius"
+			],
+			[
+				"new_ca",
+				"new_cat_radius"
+			],
+			[
+				"mous",
+				"mouse_angle"
+			],
+			[
+				"chil",
+				"children_string"
+			],
+			[
+				"boo",
+				"boolean_string"
+			],
+			[
+				"pick",
+				"pickedDoor"
+			],
+			[
+				"choi",
+				"choice_str"
+			],
+			[
+				"waits",
+				"waits_for_graph"
+			],
+			[
+				"locks",
+				"locks_list"
+			],
+			[
+				"wai",
+				"waiter"
+			],
+			[
+				"perfor",
+				"perform_put"
+			],
+			[
+				"e",
+				"exclusive"
+			],
+			[
+				"acq",
+				"_acquired_locks"
+			],
+			[
+				"ac",
+				"actual"
+			],
+			[
+				"des",
+				"_desired_lock"
+			],
+			[
+				"lock",
+				"lock_table"
+			],
+			[
+				"moves",
+				"moves_to_costs"
+			],
+			[
+				"greedy",
+				"greedy_array"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"babel",
+				"Preferences: Babel – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"sublimecodeinte",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"hello",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"updateeventsattending",
+			"id",
+			"event",
+			"autook",
+			"props",
+			"bin",
+			"}\n",
+			"hello",
+			"favicon",
+			"<",
+			"index",
+			"public",
+			"notify",
+			"num",
+			"nx",
+			"cm",
+			"change",
+			"chan",
+			"tarjan",
+			"find_",
+			"max",
+			"scale",
+			"undo_log",
+			"undo_log\\",
+			"undo_log",
+			"abort",
+			"mine",
+			"desired_lock",
+			"undo_",
+			"\"\"",
+			"pop",
+			"i]",
+			"copy",
+			"main",
+			"abort",
+			"abort()",
+			"print",
+			"))\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\sublime_projects\\MyReactSite.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1375.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
